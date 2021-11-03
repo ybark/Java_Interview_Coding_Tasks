@@ -2,7 +2,11 @@ import java.util.Arrays;
 import java.util.TreeSet;
 
 public class String_Anagram {
-
+    public static void main(String[] args) {
+        System.out.println("Ilker");
+        System.out.println("Yucel");
+        System.out.println("Zeyno");
+    }
     /*
     Write a  function that check if a string is build out of the same letters as another string.
             Ex: same("abc", "cab"); -> true , Solution 1:
