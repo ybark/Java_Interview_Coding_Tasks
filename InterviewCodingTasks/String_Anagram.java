@@ -6,6 +6,8 @@ public class String_Anagram {
         System.out.println("Ilker");
         System.out.println("Yucel");
         System.out.println("Zeyno");
+        System.out.println("---------------------");
+        System.out.println("Bu da bizden olsun");
     }
     /*
     Write a  function that check if a string is build out of the same letters as another string.
